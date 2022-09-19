@@ -1,0 +1,8 @@
+
+INSERT INTO
+       (category_id,name)
+VALUES (17,'Thriller'),
+       (18,'Crime'),
+       (19,'Mystery'),
+       (20,'Romance'),
+       (21,'War')
